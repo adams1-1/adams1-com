@@ -1,7 +1,7 @@
 ---
 title: "Plessey Barcode - Specification and Implementation"
 description: "Complete technical guide to Plessey barcode symbology, covering encoding structure, CRC verification, legacy implementations in libraries and retail, and practi"
-slug: "plessy"
+url: "/plessy.html"
 date: 2026-06-16
 weight: 962
 image: "/images/plessy.jpg"

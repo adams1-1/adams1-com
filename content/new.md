@@ -1,7 +1,7 @@
 ---
 title: "BarCode 1 Updates - What's New in Barcode Technology"
 description: "BarCode 1 site updates include new 2D barcode specifications, GS1 Digital Link documentation, and programming examples for Python, JavaScript, and Go. Latest IS"
-slug: "new"
+url: "/new.html"
 date: 2026-06-16
 weight: 943
 image: "/images/new.jpg"
