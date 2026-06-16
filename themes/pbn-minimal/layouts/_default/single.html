@@ -1,0 +1,5 @@
+{{ define "main" }}
+{{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" class="hero-img">{{ end }}
+<h1>{{ .Title }}</h1>
+{{ .Content }}
+{{ end }}

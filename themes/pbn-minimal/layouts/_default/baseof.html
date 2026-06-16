@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+<meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+<link rel="canonical" href="{{ .Permalink }}">
+{{ if .Params.image }}<meta property="og:image" content="{{ .Params.image }}">{{ end }}
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:Georgia,"Times New Roman",serif;font-size:17px;line-height:1.7;color:#222;background:#fff;max-width:820px;margin:0 auto;padding:20px 24px}
+h1{font-size:2em;line-height:1.2;margin-bottom:.5em;color:#111}
+h2{font-size:1.4em;margin:1.8em 0 .6em;color:#222}
+h3{font-size:1.15em;margin:1.4em 0 .4em}
+p{margin-bottom:1em}
+a{color:#1a5276;text-decoration:none}a:hover{text-decoration:underline}
+ul,ol{margin:0 0 1em 1.4em}li{margin-bottom:.3em}
+.hero-img{width:100%;height:auto;border-radius:6px;margin-bottom:1.5em;display:block}
+header{border-bottom:1px solid #eee;padding-bottom:12px;margin-bottom:32px}
+header .brand{color:#111;font-weight:600;font-size:1.2em}
+header nav{margin-top:8px}
+header nav a{margin-right:16px;font-size:.9em;color:#555}
+header nav a.active{color:#1a5276;font-weight:600}
+footer{margin-top:48px;padding-top:24px;border-top:1px solid #eee;font-size:.9em;color:#555;display:grid;grid-template-columns:1fr 1fr 1fr;gap:20px}
+footer h4{font-size:.85em;text-transform:uppercase;letter-spacing:.5px;margin-bottom:8px;color:#888}
+footer a{display:block;color:#555;padding:2px 0}
+.copyright{grid-column:1/-1;text-align:center;padding-top:16px;margin-top:16px;border-top:1px solid #f0f0f0;font-size:.8em;color:#888}
+@media(max-width:600px){body{padding:16px}h1{font-size:1.5em}footer{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<header>
+<a href="/" class="brand">{{ .Site.Title }}</a>
+<nav>
+{{ range .Site.Menus.main }}<a href="{{ .URL }}"{{ if $.IsMenuCurrent "main" . }} class="active"{{ end }}>{{ .Name }}</a>{{ end }}
+{{ with where .Site.RegularPages "Section" "blog" }}{{ if . }}<a href="/blog/">Blog</a>{{ end }}{{ end }}
+</nav>
+</header>
+<main>{{ block "main" . }}{{ end }}</main>
+<footer>
+<div><h4>{{ .Site.Title }}</h4><p>{{ .Site.Params.description }}</p></div>
+<div><h4>Pages</h4>{{ range .Site.Menus.footer }}<a href="{{ .URL }}">{{ .Name }}</a>{{ end }}</div>
+<div><h4>Legal</h4>{{ range .Site.Menus.legal }}<a href="{{ .URL }}">{{ .Name }}</a>{{ end }}</div>
+<div class="copyright">Copyright © {{ if ne (printf "%d" .Site.Params.founded_year) (printf "%d" now.Year) }}{{ .Site.Params.founded_year }}–{{ now.Year }}{{ else }}{{ now.Year }}{{ end }} {{ .Site.Title }}. All rights reserved.</div>
+</footer>
+</body>
+</html>

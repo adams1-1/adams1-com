@@ -1,0 +1,82 @@
+baseURL = "https://adams1.com/"
+languageCode = "en-us"
+title = "Adams1"
+theme = "pbn-minimal"
+uglyURLs = true
+
+[params]
+  description = "barcode standards and technology"
+  niche = "barcode standards and technology"
+  founded_year = 2026
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+
+[[menu.main]]
+  name = "Barcode Resources Direc…"
+  url = "/pub.html"
+  weight = 10
+
+[[menu.main]]
+  name = "UPC EAN Codes"
+  url = "/upccode.html"
+  weight = 20
+
+[[menu.main]]
+  name = "Barcode History Timeline"
+  url = "/history.html"
+  weight = 30
+
+[[menu.main]]
+  name = "2D Barcode Standards"
+  url = "/stack.html"
+  weight = 40
+
+[[menu.footer]]
+  name = "Code 128 Specification"
+  url = "/128code.html"
+  weight = 10
+
+[[menu.footer]]
+  name = "Barcode Plugins VBX"
+  url = "/plugins.html"
+  weight = 20
+
+[[menu.footer]]
+  name = "Unix Linux Barcode"
+  url = "/unix.html"
+  weight = 30
+
+[[menu.footer]]
+  name = "Barcode Readers Scanners"
+  url = "/readers.html"
+  weight = 40
+
+[[menu.footer]]
+  name = "Barcode FAQ"
+  url = "/faq.html"
+  weight = 50
+
+[[menu.footer]]
+  name = "Code 39 Specification"
+  url = "/39code.html"
+  weight = 60
+
+[[menu.legal]]
+  name = "About"
+  url = "/about.html"
+  weight = 10
+
+[[menu.legal]]
+  name = "Privacy Policy"
+  url = "/privacy-policy.html"
+  weight = 20
+
+[[menu.legal]]
+  name = "Disclaimer"
+  url = "/disclaimer.html"
+  weight = 30
