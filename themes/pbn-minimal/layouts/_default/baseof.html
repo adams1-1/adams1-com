@@ -33,7 +33,7 @@ footer a{display:block;color:#555;padding:2px 0}
 <header>
 <a href="/" class="brand">{{ .Site.Title }}</a>
 <nav>
-{{ range .Site.Menus.main }}<a href="{{ .URL | safeURL }}"{{ if $.IsMenuCurrent "main" . }} class="active"{{ end }}>{{ .Name }}</a>{{ end }}
+{{ range .Site.Menus.main }}<a href="{{ .URL | safeURL }}">{{ .Name }}</a>{{ end }}
 {{ with where .Site.RegularPages "Section" "blog" }}{{ if . }}<a href="/blog/">Blog</a>{{ end }}{{ end }}
 </nav>
 </header>
