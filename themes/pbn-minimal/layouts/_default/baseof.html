@@ -33,15 +33,15 @@ footer a{display:block;color:#555;padding:2px 0}
 <header>
 <a href="/" class="brand">{{ .Site.Title }}</a>
 <nav>
-{{ range .Site.Menus.main }}<a href="{{ .URL }}"{{ if $.IsMenuCurrent "main" . }} class="active"{{ end }}>{{ .Name }}</a>{{ end }}
+{{ range .Site.Menus.main }}<a href="{{ .URL | safeURL }}"{{ if $.IsMenuCurrent "main" . }} class="active"{{ end }}>{{ .Name }}</a>{{ end }}
 {{ with where .Site.RegularPages "Section" "blog" }}{{ if . }}<a href="/blog/">Blog</a>{{ end }}{{ end }}
 </nav>
 </header>
 <main>{{ block "main" . }}{{ end }}</main>
 <footer>
 <div><h4>{{ .Site.Title }}</h4><p>{{ .Site.Params.description }}</p></div>
-<div><h4>Pages</h4>{{ range .Site.Menus.footer }}<a href="{{ .URL }}">{{ .Name }}</a>{{ end }}</div>
-<div><h4>Legal</h4>{{ range .Site.Menus.legal }}<a href="{{ .URL }}">{{ .Name }}</a>{{ end }}</div>
+<div><h4>Pages</h4>{{ range .Site.Menus.footer }}<a href="{{ .URL | safeURL }}">{{ .Name }}</a>{{ end }}</div>
+<div><h4>Legal</h4>{{ range .Site.Menus.legal }}<a href="{{ .URL | safeURL }}">{{ .Name }}</a>{{ end }}</div>
 <div class="copyright">Copyright © {{ if ne (printf "%d" .Site.Params.founded_year) (printf "%d" now.Year) }}{{ .Site.Params.founded_year }}–{{ now.Year }}{{ else }}{{ now.Year }}{{ end }} {{ .Site.Title }}. All rights reserved.</div>
 </footer>
 </body>
