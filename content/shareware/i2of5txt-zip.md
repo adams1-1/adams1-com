@@ -3,6 +3,7 @@ title: "Interleaved 2 of 5 Font Download - i2of5txt.ttf"
 description: "Complete guide to i2of5txt.ttf - free Interleaved 2 of 5 barcode font. Installation instructions, usage examples, and compatibility information for Windows, Mac"
 slug: "shareware/i2of5txt-zip"
 date: 2026-06-16
+weight: 948
 image: "/images/shareware/i2of5txt-zip.jpg"
 ---
 

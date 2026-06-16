@@ -3,6 +3,7 @@ title: "BarCode1 FAQ - Frequently Asked Questions About Barcodes"
 description: "Expert answers to common barcode questions covering error rates (1 in 3 million vs 1 in 300 manual), symbology selection, troubleshooting, and implementation be"
 slug: "faq"
 date: 2026-06-16
+weight: 923
 image: "/images/faq.jpg"
 ---
 

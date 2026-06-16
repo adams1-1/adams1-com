@@ -3,6 +3,7 @@ title: "Code 128 Barcode - High Density Alphanumeric Standard"
 description: "Code 128 barcode technical guide: character sets A/B/C, function codes, implementation examples, and why it encodes 37% more efficiently than alternatives in sh"
 slug: "128code"
 date: 2026-06-16
+weight: 907
 image: "/images/128code.jpg"
 ---
 

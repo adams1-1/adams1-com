@@ -3,6 +3,7 @@ title: "Code 128 XML Reference - Structured Specification Data"
 description: "Learn how XML schemas represent Code 128 barcode specifications with machine-readable formats for automated validation, GS1-128 integration, and enterprise syst"
 slug: "pub/russadam/128code-xml"
 date: 2026-06-16
+weight: 911
 image: "/images/pub/russadam/128code-xml.jpg"
 ---
 

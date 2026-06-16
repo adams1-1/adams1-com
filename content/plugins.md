@@ -3,6 +3,7 @@ title: "Barcode Plugins and VBX Controls - Developer Resources"
 description: "Barcode plugins, VBX controls, and ActiveX components for developers. Compare browser extensions, SDKs, and integration tools for embedding barcode generation i"
 slug: "plugins"
 date: 2026-06-16
+weight: 908
 image: "/images/plugins.jpg"
 ---
 

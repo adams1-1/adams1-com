@@ -3,6 +3,7 @@ title: "Barcode Label Printing Software - Tools & Services"
 description: "Compare barcode label printing software options including desktop applications, cloud-based services, and free alternatives. Learn about printer integration, de"
 slug: "label"
 date: 2026-06-16
+weight: 998.4
 image: "/images/label.jpg"
 ---
 

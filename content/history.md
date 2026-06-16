@@ -3,6 +3,7 @@ title: "A Short History of Bar Code - From Invention to Today"
 description: "The first barcode patent was issued in 1952 to Norman Joseph Woodland and Bernard Silver. Learn about the 20-year journey from beach-sand sketches to the first"
 slug: "history"
 date: 2026-06-16
+weight: 906
 image: "/images/history.jpg"
 ---
 

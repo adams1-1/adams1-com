@@ -3,6 +3,7 @@ title: "Code 3 of 9 Font Download - Free Barcode Font ZIP"
 description: "Download free Code 39 (3 of 9) barcode TrueType fonts for Windows, Mac, and Linux. Installation guide, usage instructions for Word/Excel, and scanning tips incl"
 slug: "shareware/3of9_new-zip"
 date: 2026-06-16
+weight: 969
 image: "/images/shareware/3of9_new-zip.jpg"
 ---
 
