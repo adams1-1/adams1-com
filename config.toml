@@ -1,7 +1,7 @@
 baseURL = "https://adams1.com/"
 languageCode = "en-us"
 title = "Adams1"
-theme = "pbn-minimal"
+theme = "simple-news"
 uglyURLs = true
 
 [params]
