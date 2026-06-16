@@ -1,4 +1,20 @@
 {{ define "main" }}
 <h1>Page Not Found</h1>
 <p>Sorry, the page you were looking for does not exist. <a href="/">Go to home</a>.</p>
+<script>
+(function() {
+  var path = window.location.pathname;
+  // PDF → HTML redirect for legacy backlinks
+  if (/\.pdf$/i.test(path)) {
+    var htmlPath = path.replace(/\.pdf$/i, ".html");
+    window.location.replace(htmlPath);
+    return;
+  }
+  // .htm → .html
+  if (/\.htm$/i.test(path)) {
+    var htmlPath2 = path + "l";
+    window.location.replace(htmlPath2);
+  }
+})();
+</script>
 {{ end }}
