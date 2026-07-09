@@ -2,7 +2,7 @@
 title: "Barcode Readers and Scanners - Equipment Guide"
 description: "Compare barcode scanner types, technologies, and selection criteria for retail, warehouse, and industrial applications. Includes integration guides and real-wor"
 url: "/readers.html"
-date: 2026-06-16
+date: 2026-07-09
 weight: 918
 image: "/images/readers.jpg"
 ---

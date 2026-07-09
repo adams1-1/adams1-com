@@ -2,7 +2,7 @@
 title: "Patent 2,612,994 PDF - Original Barcode Invention"
 description: "US Patent 2,612,994, filed October 20, 1949 by Woodland and Silver, established the first barcode system using concentric circles—the technical foundation for m"
 url: "/shareware/2612994.html"
-date: 2026-06-16
+date: 2026-07-09
 weight: 925
 image: "/images/shareware-2612994.jpg"
 ---

@@ -2,7 +2,7 @@
 title: "BarCode 1 Specifications Source Page - Standards Links"
 description: "Find authoritative barcode specifications from ISO, GS1, and ANSI standards bodies. Technical documentation for symbology parameters, verification requirements,"
 url: "/pub/russadam/spec.html"
-date: 2026-06-16
+date: 2026-07-09
 weight: 959
 image: "/images/pub-russadam-spec.jpg"
 ---

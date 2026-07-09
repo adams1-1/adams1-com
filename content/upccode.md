@@ -2,7 +2,7 @@
 title: "UPC and EAN Bar Code Guide - Implementation & Conversion"
 description: "Learn the key differences between UPC and EAN barcodes, including format structures, conversion methods, and implementation requirements for retail products wor"
 url: "/upccode.html"
-date: 2026-06-16
+date: 2026-07-09
 weight: 906
 image: "/images/upccode.jpg"
 ---

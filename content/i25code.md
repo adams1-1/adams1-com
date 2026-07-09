@@ -2,7 +2,7 @@
 title: "Interleaved 2 of 5 Barcode - Specification & Guide"
 description: "Interleaved 2 of 5 (ITF) is a high-density numeric barcode that encodes digit pairs by interleaving bars and spaces. Learn about ITF-14 structure, encoding meth"
 url: "/i25code.html"
-date: 2026-06-16
+date: 2026-07-09
 weight: 937
 image: "/images/i25code.jpg"
 ---

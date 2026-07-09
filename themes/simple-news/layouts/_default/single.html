@@ -2,4 +2,11 @@
 {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" class="hero-img">{{ end }}
 <h1>{{ .Title }}</h1>
 {{ .Content }}
+<hr class="section-divider">
+<h2>Related Articles</h2>
+<ul class="articles-list">
+{{ range first 5 (where .Site.RegularPages.ByWeight "Permalink" "!=" .Permalink) }}
+<li><a href="{{ .Permalink }}">{{ .Title }}</a>{{ if .Description }}<p>{{ .Description }}</p>{{ end }}</li>
+{{ end }}
+</ul>
 {{ end }}

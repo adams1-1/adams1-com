@@ -2,7 +2,7 @@
 title: "Barcode Fonts - Free 3 of 9 and Font Resources"
 description: "Free barcode fonts like Code 39 generate scannable symbols using standard text rendering. Download TrueType versions for Windows, Mac, and Linux with installati"
 url: "/fonts.html"
-date: 2026-06-16
+date: 2026-07-09
 weight: 943
 image: "/images/fonts.jpg"
 ---

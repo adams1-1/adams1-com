@@ -2,7 +2,7 @@
 title: "Code 128 Character Table - 106 Symbol Patterns Index"
 description: "Code 128 uses 106 symbol patterns to encode data across three character subsets (A, B, C). Learn how the complete character set, function codes, and start chara"
 url: "/128table.html"
-date: 2026-06-16
+date: 2026-07-09
 weight: 947
 image: "/images/128table.jpg"
 ---

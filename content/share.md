@@ -2,7 +2,7 @@
 title: "Barcode Software - Shareware for Multiple Platforms"
 description: "Shareware barcode programs bridge free utilities and enterprise solutions with 30-90 day trials. Compare DOS, Windows, Mac, and Unix generators supporting Code"
 url: "/share.html"
-date: 2026-06-16
+date: 2026-07-09
 weight: 957
 image: "/images/share.jpg"
 ---

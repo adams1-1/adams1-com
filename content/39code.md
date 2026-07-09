@@ -2,7 +2,7 @@
 title: "Code 39 Barcode - Complete Specification & Guide"
 description: "Code 39 barcode symbology explained: encoding structure, implementation rules, applications in automotive and healthcare, and practical examples with width rati"
 url: "/39code.html"
-date: 2026-06-16
+date: 2026-07-09
 weight: 929
 image: "/images/39code.jpg"
 ---

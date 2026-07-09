@@ -2,7 +2,7 @@
 title: "Free USPS Postnet Barcode Font - Download TTF File"
 description: "Download free POSTNET barcode fonts for legacy USPS systems. Learn technical specifications, installation instructions, and when this deprecated postal format s"
 url: "/shareware/uspsbarcode.ttf.html"
-date: 2026-06-16
+date: 2026-07-09
 weight: 930
 image: "/images/shareware-uspsbarcode-ttf.jpg"
 ---
