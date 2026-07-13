@@ -38,7 +38,7 @@ footer a{display:block;color:#555;padding:2px 0}
 <a href="/" class="brand">{{ .Site.Title }}</a>
 <nav>
 {{ range .Site.Menus.main }}<a href="{{ .URL | safeURL }}">{{ .Name }}</a>{{ end }}
-{{ with where .Site.RegularPages "Section" "insights" }}{{ if . }}<a href="/insights/">Insights</a>{{ end }}{{ end }}
+{{ with where .Site.RegularPages "Section" "blog" }}{{ if . }}<a href="/blog/">Blog</a>{{ end }}{{ end }}
 </nav>
 </header>
 <main>{{ block "main" . }}{{ end }}</main>
@@ -46,7 +46,6 @@ footer a{display:block;color:#555;padding:2px 0}
 <div><h4>{{ .Site.Title }}</h4><p>{{ .Site.Params.description }}</p></div>
 <div><h4>Pages</h4>{{ range .Site.Menus.footer }}<a href="{{ .URL | safeURL }}">{{ .Name }}</a>{{ end }}</div>
 <div><h4>Legal</h4>{{ range .Site.Menus.legal }}<a href="{{ .URL | safeURL }}">{{ .Name }}</a>{{ end }}</div>
-{{ with where .Site.RegularPages "Section" "insights" }}{{ if . }}<div><h4>Latest Insights</h4>{{ range first 5 .ByDate.Reverse }}<a href="{{ .Permalink }}">{{ .Title }}</a>{{ end }}</div>{{ end }}{{ end }}
 <div class="copyright">Copyright © {{ if ne (printf "%d" .Site.Params.founded_year) (printf "%d" now.Year) }}{{ .Site.Params.founded_year }}–{{ now.Year }}{{ else }}{{ now.Year }}{{ end }} {{ .Site.Title }}. All rights reserved.</div>
 </footer>
 </body>

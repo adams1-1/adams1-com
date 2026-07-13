@@ -2,7 +2,7 @@
 title: "The Evolution of Barcode Scanning on Smartphones: From UPC to Digital Identity"
 description: "How smartphone cameras evolved from basic 0.3MP sensors to sophisticated scanning systems enabling instant eSIM activation and virtual number provisioning throu"
 url: "/barcode-scanning-smartphone-evolution.html"
-date: 2026-07-09
+date: 2026-07-13
 weight: 9999
 image: "/images/barcode-scanning-smartphone-evolution.jpg"
 ---

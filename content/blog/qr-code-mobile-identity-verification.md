@@ -2,7 +2,7 @@
 title: "How QR Codes Enable Mobile Identity Verification in 2024"
 description: "QR codes authenticate users across airlines, banks, and telecom networks using ISO/IEC 18004 encoding and cryptographic signing, completing verification in unde"
 url: "/qr-code-mobile-identity-verification.html"
-date: 2026-07-09
+date: 2026-07-13
 weight: 9999
 image: "/images/qr-code-mobile-identity-verification.jpg"
 ---
