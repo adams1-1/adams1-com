@@ -16,56 +16,6 @@ uglyURLs = true
   changefreq = "monthly"
   priority = 0.5
 
-[[menu.main]]
-  name = "Barcode Resources Direc…"
-  url = "/pub.html"
-  weight = 10
-
-[[menu.main]]
-  name = "Barcode Resources Direc…"
-  url = "/pub.html"
-  weight = 20
-
-[[menu.main]]
-  name = "UPC EAN Codes"
-  url = "/upccode.html"
-  weight = 30
-
-[[menu.main]]
-  name = "UPC EAN Codes"
-  url = "/upccode.html"
-  weight = 40
-
-[[menu.footer]]
-  name = "2D Barcode Standards"
-  url = "/stack.html"
-  weight = 10
-
-[[menu.footer]]
-  name = "2D Barcode Standards"
-  url = "/stack.html"
-  weight = 20
-
-[[menu.footer]]
-  name = "Barcode History Timeline"
-  url = "/history.html"
-  weight = 30
-
-[[menu.footer]]
-  name = "Barcode History Timeline"
-  url = "/history.html"
-  weight = 40
-
-[[menu.footer]]
-  name = "Code 128 Specification"
-  url = "/128code.html"
-  weight = 50
-
-[[menu.footer]]
-  name = "Code 128 Specification"
-  url = "/128code.html"
-  weight = 60
-
 [[menu.legal]]
   name = "About"
   url = "/about.html"
