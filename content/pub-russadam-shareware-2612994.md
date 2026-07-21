@@ -2,7 +2,7 @@
 title: "US Patent 2,612,994 - First Barcode Patent (1952)"
 description: "US Patent 2,612,994, granted October 7, 1952, was the first barcode patent. Norman Woodland and Bernard Silver invented the bulls-eye pattern system that launch"
 url: "/pub/russadam/shareware/2612994.html"
-date: 2026-07-09
+date: 2026-07-13
 weight: 908
 image: "/images/pub-russadam-shareware-2612994.jpg"
 ---

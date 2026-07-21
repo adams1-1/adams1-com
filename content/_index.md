@@ -1,7 +1,7 @@
 ---
 title: "Barcode Standards and Technology"
 description: "Master barcode standards from ISO/IEC specifications to industry protocols. Learn symbology selection, print quality requirements, and implementation strategies"
-date: 2026-07-09
+date: 2026-07-13
 image: "/images/homepage.jpg"
 ---
 

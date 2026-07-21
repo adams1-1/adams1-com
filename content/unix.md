@@ -2,7 +2,7 @@
 title: "Bar Code Programs For Unix & Linux - Software Guide"
 description: "Discover Unix and Linux barcode generation tools including GNU Barcode, BWIPP, and command-line utilities for automated label printing and enterprise workflows."
 url: "/unix.html"
-date: 2026-07-09
+date: 2026-07-13
 weight: 916
 image: "/images/unix.jpg"
 ---

@@ -2,7 +2,7 @@
 title: "US Patent 4,745,269 - Dot Code A Barcode Patent"
 description: "US Patent 4,745,269 introduced Dot Code A in 1988, pioneering matrix barcode technology with circular dots. Learn about its technical specifications, expiration"
 url: "/patents/us4745269.html"
-date: 2026-07-09
+date: 2026-07-13
 weight: 925
 image: "/images/patents-us4745269.jpg"
 ---

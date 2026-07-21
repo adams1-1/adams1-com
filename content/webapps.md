@@ -2,7 +2,7 @@
 title: "Bar Code Web Software Page - Online Barcode Tools"
 description: "Web-based barcode software delivers generation, validation, and scanning through browsers without local installations. Compare CGI scripts, REST APIs, and cloud"
 url: "/webapps.html"
-date: 2026-07-09
+date: 2026-07-13
 weight: 964
 image: "/images/webapps.jpg"
 ---

@@ -2,7 +2,7 @@
 title: "BarCode-1 Site Contents Page - Navigation & Resources"
 description: "Navigate BarCode-1's complete technical documentation including Code 39, Code 128, UPC/EAN specifications, free barcode fonts, developer tools, and the original"
 url: "/info.html"
-date: 2026-07-09
+date: 2026-07-13
 weight: 954
 image: "/images/info.jpg"
 ---

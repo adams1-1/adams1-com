@@ -2,7 +2,7 @@
 title: "2-Dimensional Bar Code Page - Specs & Standards Guide"
 description: "Complete technical guide to 2D barcodes including QR Code, Data Matrix, and PDF417 specifications, implementation requirements, and practical use cases for supp"
 url: "/stack.html"
-date: 2026-07-09
+date: 2026-07-13
 weight: 903
 image: "/images/stack.jpg"
 ---

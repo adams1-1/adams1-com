@@ -2,7 +2,7 @@
 title: "BarCode 1 - Comprehensive Barcode Information Resources"
 description: "BarCode 1 provides technical specifications, standards documentation, vendor directories, and developer tools for barcode implementation. Access symbology specs"
 url: "/pub.html"
-date: 2026-07-09
+date: 2026-07-13
 weight: 903
 image: "/images/pub.jpg"
 ---
