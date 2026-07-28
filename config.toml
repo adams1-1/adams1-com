@@ -17,23 +17,23 @@ uglyURLs = true
   priority = 0.5
 
 [[menu.main]]
-  name = "Barcode Resources Direc…"
-  url = "/pub.html"
+  name = "Type Light Font Editor"
+  url = "/typelight.html"
   weight = 10
 
 [[menu.main]]
-  name = "Barcode Resources Direc…"
-  url = "/pub.html"
+  name = "Type Light Font Editor"
+  url = "/typelight.html"
   weight = 20
 
 [[menu.main]]
-  name = "UPC EAN Codes"
-  url = "/upccode.html"
+  name = "Barcode Resources Direc…"
+  url = "/pub.html"
   weight = 30
 
 [[menu.main]]
-  name = "UPC EAN Codes"
-  url = "/upccode.html"
+  name = "Barcode Resources Direc…"
+  url = "/pub.html"
   weight = 40
 
 [[menu.footer]]
@@ -52,18 +52,18 @@ uglyURLs = true
   weight = 30
 
 [[menu.footer]]
-  name = "Barcode History Timeline"
-  url = "/history.html"
+  name = "UPC EAN Codes"
+  url = "/upccode.html"
   weight = 40
 
 [[menu.footer]]
-  name = "Code 128 Specification"
-  url = "/128code.html"
+  name = "Barcode History Timeline"
+  url = "/history.html"
   weight = 50
 
 [[menu.footer]]
-  name = "Code 128 Specification"
-  url = "/128code.html"
+  name = "UPC EAN Codes"
+  url = "/upccode.html"
   weight = 60
 
 [[menu.legal]]
