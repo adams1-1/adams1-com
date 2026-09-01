@@ -2,7 +2,7 @@
 title: "Privacy Policy"
 description: "Privacy policy for adams1.com"
 slug: "privacy-policy"
-date: 2026-08-29
+date: 2026-09-01
 weight: 9999
 ---
 
