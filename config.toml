@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Adams1"
 theme = "simple-news"
 uglyURLs = true
+enableGitInfo = true
 
 [params]
   description = "barcode standards and technology"
@@ -13,7 +14,7 @@ uglyURLs = true
   unsafe = true
 
 [sitemap]
-  changefreq = "monthly"
+  changefreq = "weekly"
   priority = 0.5
 
 [[menu.main]]
