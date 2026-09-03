@@ -7,8 +7,6 @@ weight: 948
 image: "/images/shareware-i2of5txt-zip.jpg"
 ---
 
-# i2of5txt.ttf: Free Interleaved 2 of 5 Barcode Font
-
 The i2of5txt.ttf file is a free TrueType font that generates Interleaved 2 of 5 barcodes directly from standard text applications without specialized barcode software. Created by Chaos Microsystems Inc., this font converts paired numeric digits into the encoded bar-space patterns defined by the ISO/IEC 16390 standard, making it useful for warehouse labeling, shipping containers, and industrial applications where dedicated barcode printing systems aren't available.
 
 ## Free Interleaved 2 of 5 TrueType font

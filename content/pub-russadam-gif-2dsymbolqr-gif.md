@@ -7,8 +7,6 @@ weight: 970
 image: "/images/pub-russadam-gif-2dsymbolqr-gif.jpg"
 ---
 
-# Understanding 2D QR Code Symbology: A Technical Breakthrough
-
 The file `2dsymbolqr.gif` represents an animated demonstration of QR Code (Quick Response Code) structure and encoding, a two-dimensional barcode symbology that's become ubiquitous in both commercial and consumer applications since its development by Denso Wave in 1994. This GIF likely illustrates the matrix pattern, finder patterns, timing patterns, and data encoding regions that distinguish QR codes from linear barcodes—making it a useful reference for developers implementing barcode generation libraries or designers working with variable data printing workflows.
 
 ## QR Code Structure and Components

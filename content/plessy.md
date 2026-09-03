@@ -7,8 +7,6 @@ weight: 962
 image: "/images/plessy.jpg"
 ---
 
-# Plessey Barcode - Specification and Implementation
-
 Plessey barcode is a continuous, variable-length symbology developed in the 1970s by the Plessey Company for use in library management and retail applications. While largely superseded by more modern symbologies, understanding Plessey remains relevant for legacy system maintenance and historical barcode implementations that still exist in specialized environments.
 
 ## Plessey Barcode Symbology Overview

@@ -21,7 +21,7 @@ Interleaved 2 of 5 encodes numeric-only data in paired digits, making it compact
 
 2D barcodes broke the linear limitation by stacking data vertically or using matrix patterns. Data Matrix (ISO/IEC 16022) fits substantial data in tiny spaces—medical devices use it for UDI compliance, where a 3mm square encodes device identifiers, lot numbers, and expiration dates. Semiconductor manufacturers etch Data Matrix directly onto chips at microscopic scales.
 
-QR Code (ISO/IEC 18004) provides built-in error correction through Reed-Solomon algorithms. Damage up to 30% of the symbol? It still scans. This resilience matters for outdoor applications, printed receipts, and marketing materials. The automotive industry standardized on QR codes for parts tracking because symbols survive harsh manufacturing environments.
+QR Code (ISO/IEC 18004) provides built-in error correction through Reed-Solomon algorithms. Damage up to 30% of the symbol? It still scans. This resilience matters for outdoor applications, printed receipts, and marketing materials. The automotive industry standardized on QR codes for parts tracking because symbols survive harsh manufacturing environments. The same scan-to-provision pattern now drives mobile connectivity: activating an eSIM profile means scanning a QR code, which is how [online phone numbers](/esim-virtual-numbers-digital-communication.html) get issued without a physical SIM.
 
 PDF417 (ISO/IEC 15438) operates as a portable data file—driver's licenses encode your photo and biometric data in the barcode itself, no database required. It's overkill for simple identification but essential when you need to move complete records through systems with limited connectivity.
 

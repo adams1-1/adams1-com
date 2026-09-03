@@ -7,8 +7,6 @@ weight: 9999
 image: "/images/qr-code-mobile-identity-verification.jpg"
 ---
 
-# How QR Codes Enable Mobile Identity Verification in 2026
-
 QR codes have evolved from simple marketing tools into sophisticated identity verification tokens that authenticate users across airlines, banks, healthcare systems, and telecommunications networks. Unlike traditional credentials that require physical cards or passwords, QR-based identity systems use ISO/IEC 18004 encoding standards combined with cryptographic signing to create tamper-evident authentication tokens that smartphones can scan and validate in milliseconds.
 
 The shift happened because QR codes solve a fundamental problem: they bridge offline identity presentation with online verification systems without requiring specialized hardware beyond the camera already in your pocket.
