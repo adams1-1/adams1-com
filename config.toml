@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Adams1"
 theme = "simple-news"
 uglyURLs = true
+enableGitInfo = true
 
 [params]
   description = "barcode standards and technology"
@@ -13,7 +14,7 @@ uglyURLs = true
   unsafe = true
 
 [sitemap]
-  changefreq = "monthly"
+  changefreq = "weekly"
   priority = 0.5
 
 [[menu.main]]
@@ -22,48 +23,48 @@ uglyURLs = true
   weight = 10
 
 [[menu.main]]
-  name = "Barcode Resources Direc…"
-  url = "/pub.html"
+  name = "UPC EAN Codes"
+  url = "/upccode.html"
   weight = 20
 
 [[menu.main]]
-  name = "UPC EAN Codes"
-  url = "/upccode.html"
+  name = "Barcode History Timeline"
+  url = "/history.html"
   weight = 30
 
 [[menu.main]]
-  name = "UPC EAN Codes"
-  url = "/upccode.html"
+  name = "2D Barcode Standards"
+  url = "/stack.html"
   weight = 40
 
 [[menu.footer]]
-  name = "2D Barcode Standards"
-  url = "/stack.html"
+  name = "Code 128 Specification"
+  url = "/128code.html"
   weight = 10
 
 [[menu.footer]]
-  name = "2D Barcode Standards"
-  url = "/stack.html"
+  name = "Barcode Plugins VBX"
+  url = "/plugins.html"
   weight = 20
 
 [[menu.footer]]
-  name = "Barcode History Timeline"
-  url = "/history.html"
+  name = "Unix Linux Barcode"
+  url = "/unix.html"
   weight = 30
 
 [[menu.footer]]
-  name = "Barcode History Timeline"
-  url = "/history.html"
+  name = "Barcode Readers Scanners"
+  url = "/readers.html"
   weight = 40
 
 [[menu.footer]]
-  name = "Code 128 Specification"
-  url = "/128code.html"
+  name = "Barcode FAQ"
+  url = "/faq.html"
   weight = 50
 
 [[menu.footer]]
-  name = "Code 128 Specification"
-  url = "/128code.html"
+  name = "Code 39 Specification"
+  url = "/39code.html"
   weight = 60
 
 [[menu.legal]]

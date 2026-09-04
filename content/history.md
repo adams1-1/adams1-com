@@ -7,8 +7,6 @@ weight: 906
 image: "/images/history.jpg"
 ---
 
-# When Was the First Barcode Patent Issued? A Timeline of Barcode Innovation
-
 Barcode technology transformed how we track products and data, but it took decades to move from concept to checkout counter. The first barcode patent was filed in 1949 and granted to Norman Joseph Woodland and Bernard Silver in 1952, yet commercial adoption didn't happen until the early 1970s when standardization made widespread implementation possible.
 
 ## Origins of Barcode Technology and Early Inventors
