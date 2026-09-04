@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://adams1.com/sitemap.xml
+Sitemap: {{ .Site.BaseURL }}sitemap.xml

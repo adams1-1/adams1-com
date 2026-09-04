@@ -2,7 +2,7 @@
 title: "Mobile Barcode Scanning for Digital Identity Verification and Authentication"
 description: "QR codes transformed from product tracking to mobile identity verification, enabling eSIM provisioning, two-factor authentication, and virtual number services t"
 url: "/mobile-barcode-scanning-digital-identity-verification.html"
-date: 2026-09-03
+date: 2026-09-04
 weight: 9999
 image: "/images/mobile-barcode-scanning-digital-identity-verification.jpg"
 ---

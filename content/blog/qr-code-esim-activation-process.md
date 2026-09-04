@@ -7,6 +7,8 @@ weight: 9999
 image: "/images/qr-code-esim-activation-process.jpg"
 ---
 
+# How eSIM QR Codes Work: Technical Standards and Activation Process
+
 QR codes have transformed eSIM activation into a simple scan-and-connect process, encoding the complete profile download instructions into a machine-readable matrix barcode. When you scan an eSIM activation QR code, your device extracts an SM-DP+ server address and encrypted authentication token, initiating an automated provisioning sequence that downloads carrier credentials and network parameters directly to your device's embedded Universal Integrated Circuit Card (eUICC). This eliminates physical SIM cards entirely, reducing activation time from days to seconds.
 
 The technology represents a convergence point between barcode standards and telecommunications infrastructure—QR Code Model 2 symbology carrying GSMA-standardized activation strings that reconfigure mobile network access. Understanding this technical bridge reveals how [2D barcode technology](/stack.html) now underpins the modern mobile identity ecosystem.
