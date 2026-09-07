@@ -7,6 +7,8 @@ weight: 930
 image: "/images/shareware-uspsbarcode-ttf.jpg"
 ---
 
+# POSTNET Barcode Font: Free Download for Legacy USPS Systems
+
 POSTNET is a legacy USPS barcode symbology used from 1982 through 2013 for mail sorting automation, and free TrueType fonts remain available for historical reference and legacy system support. While the United States Postal Service officially retired POSTNET in favor of Intelligent Mail barcodes (IMb), thousands of organizations maintain legacy documents and applications requiring the original font files. This guide covers where to find legitimate POSTNET fonts, their technical specifications per USPS standards, and proper implementation for those rare cases where backward compatibility matters.
 
 ## Free Postnet Barcode Font Download

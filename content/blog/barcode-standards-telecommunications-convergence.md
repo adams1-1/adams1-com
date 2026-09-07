@@ -7,6 +7,8 @@ weight: 9999
 image: "/images/barcode-standards-telecommunications-convergence.jpg"
 ---
 
+# Barcode Standards Enable Mobile Virtual Number Provisioning
+
 Barcode standards traditionally governed retail and logistics, but today they're the technical foundation for telecommunications provisioning. QR codes now encode complete mobile profile data for eSIM activation, while 2D barcodes deliver virtual phone numbers without physical SIM cards. This convergence required fundamental changes to both barcode capacity standards and telecom provisioning protocols.
 
 ## GS1 and Telecom Industry Barcode Standard Alignment
