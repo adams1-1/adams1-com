@@ -2,7 +2,7 @@
 title: "About"
 description: "About this site"
 slug: "about"
-date: 2026-10-04
+date: 2026-10-07
 weight: 9999
 ---
 
