@@ -2,7 +2,7 @@
 title: "Disclaimer"
 description: "Disclaimer for adams1.com"
 slug: "disclaimer"
-date: 2026-11-12
+date: 2026-11-15
 weight: 9999
 ---
 
